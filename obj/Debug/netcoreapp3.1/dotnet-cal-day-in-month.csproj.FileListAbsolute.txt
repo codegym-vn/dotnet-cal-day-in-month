@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.exe
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.deps.json
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.dll
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\bin\Debug\netcoreapp3.1\dotnet-cal-day-in-month.pdb
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\obj\Debug\netcoreapp3.1\dotnet-cal-day-in-month.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\obj\Debug\netcoreapp3.1\dotnet-cal-day-in-month.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\obj\Debug\netcoreapp3.1\dotnet-cal-day-in-month.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\obj\Debug\netcoreapp3.1\dotnet-cal-day-in-month.dll
+D:\CodeGym\Bai2\dotnet-cal-day-in-month\obj\Debug\netcoreapp3.1\dotnet-cal-day-in-month.pdb
